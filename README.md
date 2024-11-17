@@ -35,6 +35,12 @@ This project is actively maintained and under continuous development to incorpor
 2. **Resume Generation**: Resume_GPT compiles the provided information into a professional LaTeX resume template.
 3. **Job Recommendations**: Based on the created resume, the system recommends suitable positions using RAG-based insights.
 
+## Contributors ✨
+
+Thanks to these amazing people who have contributed to the project:
+
+- [@username](https://github.com/username) - Documentation, bug reports
+
 ---
 
 Feel free to [contribute](#contributing) or explore the [documentation](#documentation) for further details. Join us in redefining how resumes are created!
