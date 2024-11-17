@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "name": "Cris",
+        "age": 22,
+        "gender": "Male",
+        "phone_number": "66667777",
+        "email": "ilovenlp@qq.com",
+        "address": "Chaoyang District, Beijing",
+        "linkedin": "https://www.linkedin.com/in/cris",
+        "github": "https://github.com/cris"
+    },
+    "education_info": [
+        {
+            "school": "The University of Hong Kong",
+            "major": "Computer Science",
+            "degree": "Master's",
+            "gpa": "3.8/4.0",
+            "education_time": "2024.09 - 2025.12",
+            "courses": ["Advanced Algorithms", "Machine Learning"],
+            "awards": ["Outstanding Graduate", "First Prize in Programming Competition"]
+        },
+        {
+            "school": "Tsinghua University",
+            "major": "Software Engineering",
+            "degree": "Bachelor's",
+            "gpa": "3.6/4.0",
+            "education_time": "2020.09 - 2024.06",
+            "courses": ["Data Structures", "Operating Systems"]
+        }
+    ],
+    "work_experience": [
+        {
+            "company": "Alibaba",
+            "title": "Java Developer",
+            "location": "Hangzhou",
+            "time": "2018.07 - 2020.06",
+            "details": ["Responsible for backend development", "Participated in system design"]
+        },
+        {
+            "company": "Huawei",
+            "title": "Data Analyst",
+            "location": "Shenzhen",
+            "time": "2020.07 - 2022.06",
+            "details": ["Responsible for data cleaning and modeling", "Performed data analysis"]
+        }
+    ],
+    "projects": [
+        {
+            "name": "E-commerce Platform Development",
+            "role": "Developer",
+            "time": "2019.01 - 2019.12",
+            "details": ["Used Java for backend development", "Designed the database"]
+        },
+        {
+            "name": "Data Analysis Project",
+            "role": "Team Leader",
+            "time": "2021.01 - 2021.12",
+            "details": ["Used Python for data processing and modeling", "Generated analysis reports"]
+        }
+    ],
+    "skills": [
+        {
+            "Programing": "Java, Python"
+        },
+        {
+            "Languages": "English, Spanish"
+        },
+        {
+            "Tools": "Git, Docker"
+        }
+    ],
+    "research_interests": "Artificial Intelligence, Machine Learning, Natural Language Processing",
+    "research_experience": [
+        {
+            "title": "Sentiment Analysis in Natural Language Processing",
+            "supervisor": "Professor Li",
+            "time": "2023.01 - 2023.12",
+            "details": ["Studied the application of deep learning in sentiment analysis", "Published a paper in ACL 2023"]
+        }
+    ],
+    "publications": [
+        "Cris, 'A Study on Sentiment Analysis in NLP', Proceedings of ACL, 2023"
+    ],
+    "awards": [
+        "National Scholarship (2022)",
+        "Outstanding Student Leader (2021)"
+    ]
+}
